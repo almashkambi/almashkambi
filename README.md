@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @almashkambi
 - 👀 I’m interested in coding obviously
 - 🌱 I’m currently learning python
-- 📫 How to reach me shkambialma6@gmail.com
+- 📫 How to reach me almaswengineer@gmail.com
 
 <!---
 almashkambi/almashkambi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
